@@ -4,6 +4,8 @@ As such, we have implemented the following contribution guidelines to help ensur
 
 Bear in mind that this is a living document and will evolve over time. Feel free to make a pull request for if you think it should be changed in some way.
 
+[![Sponsor Burn Signal](https://res.cloudinary.com/dvargvav9/image/upload/v1581842794/button2_w5exua.svg)](https://flowerpot.network/burnsignal?trigger=true)
+
 ---
 
 # Overview
@@ -54,3 +56,5 @@ Once the admins are comfortable with you as a contributor, they will grant you t
 Anyone is free, and should feel empowered, to raise an objection to any work suggestion. If you think that a piece of work is out of scope or priced incorrectly, raise an objection to it in our [Telegram](https://t.me/burnsignal) or the associated github issue.
 
 ---
+
+[![Sponsor Burn Signal](https://res.cloudinary.com/dvargvav9/image/upload/v1581842794/button2_w5exua.svg)](https://flowerpot.network/burnsignal?trigger=true)
